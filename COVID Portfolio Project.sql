@@ -95,6 +95,4 @@ Join PortfolioProject..CovidVaccinations as vac
   ON dea.location=vac.location
   and dea.date=vac.date
   where dea.continent is not null
-
-
-   
+ 
